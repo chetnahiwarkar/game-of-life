@@ -21,3 +21,4 @@ EXPOSE 9090
 
 CMD ["mvn"]
 end this file
+extention file .com
